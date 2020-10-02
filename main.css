@@ -188,3 +188,18 @@ input[type=submit] {
     cursor: pointer;
     border-radius: 3px;
 }
+
+.btn{
+   color: #fff;
+   background-color: #343a40;
+   border-color: #343a40;
+   cursor: pointer;
+}
+
+.btn:hover{
+    color: #fff;
+    background-color: #23272b;
+    border-color: #1d2124;
+    cursor: pointer;
+}
+}
